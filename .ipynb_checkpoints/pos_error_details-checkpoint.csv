@@ -1,0 +1,16 @@
+Sentence_ID,Error_Type,Correct_Word,User_Word,Correct_POS,Correct_POS_Label,User_POS,User_POS_Label
+1,replace,jumps,jump,VERB,Verb,NOUN,Noun
+1,omission,the,,DET,Determiner,,N/A
+2,replace,is,go,AUX,Auxiliary,VERB,Verb
+2,omission,the,,DET,Determiner,,N/A
+2,omission,to,,PART,Particle,,N/A
+2,replace,vegetables,vegetable,NOUN,Noun,NOUN,Noun
+3,replace,does,not,AUX,Auxiliary,PART,Particle
+3,replace,playing,play,VERB,Verb,VERB,Verb
+3,omission,the,,DET,Determiner,,N/A
+4,replace,were,watch,AUX,Auxiliary,VERB,Verb
+4,omission,the,,DET,Determiner,,N/A
+4,replace,went,go,VERB,Verb,VERB,Verb
+5,replace,have,study,AUX,Auxiliary,VERB,Verb
+5,omission,for,,ADP,Adposition,,N/A
+5,replace,years,year,NOUN,Noun,NOUN,Noun

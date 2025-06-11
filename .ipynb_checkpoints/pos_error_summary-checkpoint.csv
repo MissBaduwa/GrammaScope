@@ -1,0 +1,7 @@
+Error_Type,POS_Tag,POS_Description,Count
+replace,VERB,Verb,3
+replace,AUX,Auxiliary,4
+replace,NOUN,Noun,2
+omission,DET,Determiner,4
+omission,PART,Particle,1
+omission,ADP,Adposition,1
